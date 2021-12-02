@@ -1,8 +1,8 @@
-# urbanLandUse
-Methods for urban land usage classification
+
+#Methods for urban land usage classification
 
 
-References:
+##References:
 
 [Using open data to detect the structure and pattern of informal settlements: an outset to support inclusive SDGs’ achievement](https://www.tandfonline.com/doi/full/10.1080/20964471.2021.1948178)
 
@@ -30,14 +30,14 @@ References:
 
 [Land cover and land use classification performance of machine learning algorithms in a boreal landscape using Sentinel-2 data](https://www.tandfonline.com/doi/full/10.1080/15481603.2019.1650447)
 
-[From Land Cover Map to Land Use Map: A Combined Pixel-Based and Object-Based Approach Using Multi-Temporal Landsat Data, a Random Forest Classifier, and Decision Rules](file:///Users/jmmnn/Downloads/remotesensing-13-01700.pdf)
+[From Land Cover Map to Land Use Map: A Combined Pixel-Based and Object-Based Approach Using Multi-Temporal Landsat Data, a Random Forest Classifier, and Decision Rules](https://www.mdpi.com/2072-4292/13/9/1700)
 
-Land Classification Strandards:
+##Land Classification Strandards:
 
 [Land Cover and Land Use of the Basic Set of Environment Statistics of the FDES 2013](https://unstats.un.org/unsd/environment/FDES/MS_1.2.1_2.3.1_Land%20Cover_Land%20Use.pdf)
 
 
-Imagery:
+##Imagery:
 
 [Sentinel Hub is an engine for processing of petabytes of satellite data. It makes Sentinel, Landsat, and other Earth observation imagery easily accessible for browsing, visualization and analysis. ](https://www.sentinel-hub.com/). App access here: [https://apps.sentinel-hub.com/]
 
