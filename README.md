@@ -33,6 +33,11 @@
 
 [From Land Cover Map to Land Use Map: A Combined Pixel-Based and Object-Based Approach Using Multi-Temporal Landsat Data, a Random Forest Classifier, and Decision Rules](https://www.mdpi.com/2072-4292/13/9/1700)
 
+By Global Pulse
+[Humanitarian applications of machine learning with remote-sensing data: review and case study in refugee settlement mapping](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2017.0363)
+
+[PulseSatellite: A tool using human-AI feedback loops for satellite image analysis in humanitarian contexts](https://github.com/jmmnn/urbanLandUse/blob/main/PulseSatellite_A_Tool_Using_Human-AI_Feedback_Loop.pdf)
+
 ##Land Classification Strandards:
 
 [Land Cover and Land Use of the Basic Set of Environment Statistics of the FDES 2013](https://unstats.un.org/unsd/environment/FDES/MS_1.2.1_2.3.1_Land%20Cover_Land%20Use.pdf)
