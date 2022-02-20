@@ -42,6 +42,9 @@ By Global Pulse
 
 [PulseSatellite: A tool using human-AI feedback loops for satellite image analysis in humanitarian contexts](https://github.com/jmmnn/urbanLandUse/blob/main/PulseSatellite_A_Tool_Using_Human-AI_Feedback_Loop.pdf)
 
+##Green Areas
+[Modelling Accessibility to Urban Green Areas Using Open Earth Observations Data: A Novel Approach to Support the Urban SDG in Four European Cities - Uses NDVI](https://www.mdpi.com/2072-4292/13/3/422/htm)
+
 ##Land Classification Strandards:
 
 [Land Cover and Land Use of the Basic Set of Environment Statistics of the FDES 2013](https://unstats.un.org/unsd/environment/FDES/MS_1.2.1_2.3.1_Land%20Cover_Land%20Use.pdf)
