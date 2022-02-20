@@ -5,6 +5,9 @@
 ##References:
 
 
+
+[Mapping Slums with Medium Resolution Satellite Imagery: a Comparative Analysis of Multi-Spectral Data and Grey-level Co-occurrence Matrix Techniques](https://arxiv.org/abs/2106.11395) <- 0j0
+
 [Using open data to detect the structure and pattern of informal settlements: an outset to support inclusive SDGs’ achievement](https://www.tandfonline.com/doi/full/10.1080/20964471.2021.1948178)
 
 [Exploring the impacts of urban expansion on green spaces availability and delivery of ecosystem services in the Accra metropolis](https://www.sciencedirect.com/science/article/pii/S2667010021002626)
